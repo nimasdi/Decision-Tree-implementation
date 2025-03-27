@@ -1,0 +1,748 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3299pt" height="622pt" viewBox="0.00 0.00 3298.63 622.40">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 618.4)">
+<polygon fill="white" stroke="none" points="-4,4 -4,-618.4 3294.63,-618.4 3294.63,4 -4,4"/>
+<!-- 0 -->
+<g id="node1" class="node">
+<title>0</title>
+<polygon fill="lightblue" stroke="black" points="2455.41,-614.4 2310.22,-614.4 2310.22,-556 2455.41,-556 2455.41,-614.4"/>
+<text text-anchor="middle" x="2382.81" y="-597.8" font-family="Arial" font-size="14.00">Interest_rate_spread</text>
+<text text-anchor="middle" x="2382.81" y="-581" font-family="Arial" font-size="14.00">Gini: 0.372</text>
+<text text-anchor="middle" x="2382.81" y="-564.2" font-family="Arial" font-size="14.00">Info Gain: 0.166</text>
+</g>
+<!-- 1 -->
+<g id="node2" class="node">
+<title>1</title>
+<polygon fill="lightgreen" stroke="black" points="2202.63,-503.2 2087,-503.2 2087,-444.8 2202.63,-444.8 2202.63,-503.2"/>
+<text text-anchor="middle" x="2144.81" y="-486.6" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="2144.81" y="-469.8" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="2144.81" y="-453" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 0&#45;&gt;1 -->
+<g id="edge1" class="edge">
+<title>0-&gt;1</title>
+<path fill="none" stroke="black" d="M2320.28,-555.51C2287.33,-540.39 2246.86,-521.82 2213.09,-506.33"/>
+<polygon fill="black" stroke="black" points="2214.77,-503.25 2204.22,-502.26 2211.85,-509.61 2214.77,-503.25"/>
+<text text-anchor="middle" x="2281.96" y="-525.4" font-family="Arial" font-size="14.00">0</text>
+</g>
+<!-- 2 -->
+<g id="node3" class="node">
+<title>2</title>
+<polygon fill="lightblue" stroke="black" points="2340.56,-503.2 2221.06,-503.2 2221.06,-444.8 2340.56,-444.8 2340.56,-503.2"/>
+<text text-anchor="middle" x="2280.81" y="-486.6" font-family="Arial" font-size="14.00">Upfront_charges</text>
+<text text-anchor="middle" x="2280.81" y="-469.8" font-family="Arial" font-size="14.00">Gini: 0.487</text>
+<text text-anchor="middle" x="2280.81" y="-453" font-family="Arial" font-size="14.00">Info Gain: 0.319</text>
+</g>
+<!-- 0&#45;&gt;2 -->
+<g id="edge47" class="edge">
+<title>0-&gt;2</title>
+<path fill="none" stroke="black" d="M2356.01,-555.51C2343.48,-542.09 2328.41,-525.96 2315.06,-511.67"/>
+<polygon fill="black" stroke="black" points="2317.85,-509.52 2308.47,-504.61 2312.74,-514.3 2317.85,-509.52"/>
+<text text-anchor="middle" x="2341.81" y="-525.4" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- 48 -->
+<g id="node49" class="node">
+<title>48</title>
+<polygon fill="lightgreen" stroke="black" points="2474.63,-503.2 2359,-503.2 2359,-444.8 2474.63,-444.8 2474.63,-503.2"/>
+<text text-anchor="middle" x="2416.81" y="-486.6" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="2416.81" y="-469.8" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="2416.81" y="-453" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 0&#45;&gt;48 -->
+<g id="edge48" class="edge">
+<title>0-&gt;48</title>
+<path fill="none" stroke="black" d="M2391.75,-555.51C2395.69,-542.84 2400.39,-527.76 2404.64,-514.09"/>
+<polygon fill="black" stroke="black" points="2407.86,-515.53 2407.49,-504.94 2401.18,-513.45 2407.86,-515.53"/>
+<text text-anchor="middle" x="2405.74" y="-525.4" font-family="Arial" font-size="14.00">2</text>
+</g>
+<!-- 49 -->
+<g id="node50" class="node">
+<title>49</title>
+<polygon fill="lightgreen" stroke="black" points="2608.63,-503.2 2493,-503.2 2493,-444.8 2608.63,-444.8 2608.63,-503.2"/>
+<text text-anchor="middle" x="2550.81" y="-486.6" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="2550.81" y="-469.8" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="2550.81" y="-453" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 0&#45;&gt;49 -->
+<g id="edge49" class="edge">
+<title>0-&gt;49</title>
+<path fill="none" stroke="black" d="M2426.95,-555.51C2448.48,-541.52 2474.54,-524.58 2497.2,-509.85"/>
+<polygon fill="black" stroke="black" points="2498.93,-512.9 2505.41,-504.51 2495.12,-507.03 2498.93,-512.9"/>
+<text text-anchor="middle" x="2480.77" y="-525.4" font-family="Arial" font-size="14.00">3</text>
+</g>
+<!-- 3 -->
+<g id="node4" class="node">
+<title>3</title>
+<polygon fill="lightblue" stroke="black" points="1286.63,-392 1171,-392 1171,-333.6 1286.63,-333.6 1286.63,-392"/>
+<text text-anchor="middle" x="1228.81" y="-375.4" font-family="Arial" font-size="14.00">credit_type</text>
+<text text-anchor="middle" x="1228.81" y="-358.6" font-family="Arial" font-size="14.00">Gini: 0.020</text>
+<text text-anchor="middle" x="1228.81" y="-341.8" font-family="Arial" font-size="14.00">Info Gain: 0.020</text>
+</g>
+<!-- 2&#45;&gt;3 -->
+<g id="edge6" class="edge">
+<title>2-&gt;3</title>
+<path fill="none" stroke="black" d="M2220.58,-447.16C2217.64,-446.29 2214.71,-445.49 2211.81,-444.8 2037.81,-403.12 1492.83,-375.51 1298.5,-366.78"/>
+<polygon fill="black" stroke="black" points="1298.7,-363.28 1288.55,-366.33 1298.39,-370.27 1298.7,-363.28"/>
+<text text-anchor="middle" x="2097.09" y="-414.2" font-family="Arial" font-size="14.00">0</text>
+</g>
+<!-- 8 -->
+<g id="node9" class="node">
+<title>8</title>
+<polygon fill="lightblue" stroke="black" points="2087.63,-392 1972,-392 1972,-333.6 2087.63,-333.6 2087.63,-392"/>
+<text text-anchor="middle" x="2029.81" y="-375.4" font-family="Arial" font-size="14.00">rate_of_interest</text>
+<text text-anchor="middle" x="2029.81" y="-358.6" font-family="Arial" font-size="14.00">Gini: 0.242</text>
+<text text-anchor="middle" x="2029.81" y="-341.8" font-family="Arial" font-size="14.00">Info Gain: 0.129</text>
+</g>
+<!-- 2&#45;&gt;8 -->
+<g id="edge37" class="edge">
+<title>2-&gt;8</title>
+<path fill="none" stroke="black" d="M2220.69,-446.84C2183.84,-430.81 2136.55,-410.24 2098.26,-393.58"/>
+<polygon fill="black" stroke="black" points="2099.67,-390.37 2089.1,-389.59 2096.88,-396.79 2099.67,-390.37"/>
+<text text-anchor="middle" x="2174.23" y="-414.2" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- 39 -->
+<g id="node40" class="node">
+<title>39</title>
+<polygon fill="lightblue" stroke="black" points="2585.92,-392 2405.71,-392 2405.71,-333.6 2585.92,-333.6 2585.92,-392"/>
+<text text-anchor="middle" x="2495.81" y="-375.4" font-family="Arial" font-size="14.00">submission_of_application</text>
+<text text-anchor="middle" x="2495.81" y="-358.6" font-family="Arial" font-size="14.00">Gini: 0.009</text>
+<text text-anchor="middle" x="2495.81" y="-341.8" font-family="Arial" font-size="14.00">Info Gain: 0.009</text>
+</g>
+<!-- 2&#45;&gt;39 -->
+<g id="edge41" class="edge">
+<title>2-&gt;39</title>
+<path fill="none" stroke="black" d="M2337.3,-444.31C2365.46,-430.01 2399.7,-412.62 2429.13,-397.67"/>
+<polygon fill="black" stroke="black" points="2430.65,-400.82 2437.98,-393.17 2427.48,-394.58 2430.65,-400.82"/>
+<text text-anchor="middle" x="2405.08" y="-414.2" font-family="Arial" font-size="14.00">2</text>
+</g>
+<!-- 43 -->
+<g id="node44" class="node">
+<title>43</title>
+<polygon fill="lightblue" stroke="black" points="3022.63,-392 2907,-392 2907,-333.6 3022.63,-333.6 3022.63,-392"/>
+<text text-anchor="middle" x="2964.81" y="-375.4" font-family="Arial" font-size="14.00">credit_type</text>
+<text text-anchor="middle" x="2964.81" y="-358.6" font-family="Arial" font-size="14.00">Gini: 0.003</text>
+<text text-anchor="middle" x="2964.81" y="-341.8" font-family="Arial" font-size="14.00">Info Gain: 0.003</text>
+</g>
+<!-- 2&#45;&gt;43 -->
+<g id="edge46" class="edge">
+<title>2-&gt;43</title>
+<path fill="none" stroke="black" d="M2340.71,-447.46C2343.77,-446.49 2346.81,-445.6 2349.81,-444.8 2543.28,-393.44 2780.01,-373.96 2895.19,-367.14"/>
+<polygon fill="black" stroke="black" points="2895.33,-370.64 2905.11,-366.57 2894.93,-363.65 2895.33,-370.64"/>
+<text text-anchor="middle" x="2503.06" y="-414.2" font-family="Arial" font-size="14.00">3</text>
+</g>
+<!-- 4 -->
+<g id="node5" class="node">
+<title>4</title>
+<polygon fill="lightgreen" stroke="black" points="1018.63,-280.8 903,-280.8 903,-222.4 1018.63,-222.4 1018.63,-280.8"/>
+<text text-anchor="middle" x="960.81" y="-264.2" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="960.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="960.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 3&#45;&gt;4 -->
+<g id="edge2" class="edge">
+<title>3-&gt;4</title>
+<path fill="none" stroke="black" d="M1170.67,-338.64C1132.99,-323.57 1082.6,-303.3 1029.54,-281.49"/>
+<polygon fill="black" stroke="black" points="1030.87,-278.26 1020.3,-277.69 1028.21,-284.73 1030.87,-278.26"/>
+<text text-anchor="middle" x="1114.4" y="-303" font-family="Arial" font-size="14.00">0</text>
+</g>
+<!-- 5 -->
+<g id="node6" class="node">
+<title>5</title>
+<polygon fill="lightgreen" stroke="black" points="1152.63,-280.8 1037,-280.8 1037,-222.4 1152.63,-222.4 1152.63,-280.8"/>
+<text text-anchor="middle" x="1094.81" y="-264.2" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="1094.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="1094.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 3&#45;&gt;5 -->
+<g id="edge3" class="edge">
+<title>3-&gt;5</title>
+<path fill="none" stroke="black" d="M1193.61,-333.11C1176.68,-319.32 1156.23,-302.65 1138.34,-288.07"/>
+<polygon fill="black" stroke="black" points="1140.92,-285.66 1130.96,-282.06 1136.5,-291.09 1140.92,-285.66"/>
+<text text-anchor="middle" x="1173.73" y="-303" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- 6 -->
+<g id="node7" class="node">
+<title>6</title>
+<polygon fill="lightgreen" stroke="black" points="1286.63,-280.8 1171,-280.8 1171,-222.4 1286.63,-222.4 1286.63,-280.8"/>
+<text text-anchor="middle" x="1228.81" y="-264.2" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="1228.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="1228.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 3&#45;&gt;6 -->
+<g id="edge4" class="edge">
+<title>3-&gt;6</title>
+<path fill="none" stroke="black" d="M1228.81,-333.11C1228.81,-320.69 1228.81,-305.95 1228.81,-292.5"/>
+<polygon fill="black" stroke="black" points="1232.31,-292.61 1228.81,-282.61 1225.31,-292.61 1232.31,-292.61"/>
+<text text-anchor="middle" x="1232.71" y="-303" font-family="Arial" font-size="14.00">2</text>
+</g>
+<!-- 7 -->
+<g id="node8" class="node">
+<title>7</title>
+<polygon fill="lightgreen" stroke="black" points="1420.63,-280.8 1305,-280.8 1305,-222.4 1420.63,-222.4 1420.63,-280.8"/>
+<text text-anchor="middle" x="1362.81" y="-264.2" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="1362.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="1362.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 3&#45;&gt;7 -->
+<g id="edge5" class="edge">
+<title>3-&gt;7</title>
+<path fill="none" stroke="black" d="M1264.02,-333.11C1280.95,-319.32 1301.4,-302.65 1319.29,-288.07"/>
+<polygon fill="black" stroke="black" points="1321.13,-291.09 1326.67,-282.06 1316.71,-285.66 1321.13,-291.09"/>
+<text text-anchor="middle" x="1307.73" y="-303" font-family="Arial" font-size="14.00">3</text>
+</g>
+<!-- 9 -->
+<g id="node10" class="node">
+<title>9</title>
+<polygon fill="lightgreen" stroke="black" points="1554.63,-280.8 1439,-280.8 1439,-222.4 1554.63,-222.4 1554.63,-280.8"/>
+<text text-anchor="middle" x="1496.81" y="-264.2" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="1496.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="1496.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 8&#45;&gt;9 -->
+<g id="edge7" class="edge">
+<title>8-&gt;9</title>
+<path fill="none" stroke="black" d="M1971.83,-355.99C1884.82,-346.35 1715.59,-323.99 1565.75,-281.12"/>
+<polygon fill="black" stroke="black" points="1567.03,-277.85 1556.45,-278.42 1565.08,-284.57 1567.03,-277.85"/>
+<text text-anchor="middle" x="1706.45" y="-303" font-family="Arial" font-size="14.00">0</text>
+</g>
+<!-- 10 -->
+<g id="node11" class="node">
+<title>10</title>
+<polygon fill="lightblue" stroke="black" points="1688.63,-280.8 1573,-280.8 1573,-222.4 1688.63,-222.4 1688.63,-280.8"/>
+<text text-anchor="middle" x="1630.81" y="-264.2" font-family="Arial" font-size="14.00">property_value</text>
+<text text-anchor="middle" x="1630.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.121</text>
+<text text-anchor="middle" x="1630.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.007</text>
+</g>
+<!-- 8&#45;&gt;10 -->
+<g id="edge28" class="edge">
+<title>8-&gt;10</title>
+<path fill="none" stroke="black" d="M1971.8,-345.92C1899.69,-326.19 1776.79,-292.55 1699.9,-271.51"/>
+<polygon fill="black" stroke="black" points="1700.93,-268.16 1690.36,-268.9 1699.08,-274.91 1700.93,-268.16"/>
+<text text-anchor="middle" x="1858.1" y="-303" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- 31 -->
+<g id="node32" class="node">
+<title>31</title>
+<polygon fill="lightblue" stroke="black" points="2119.92,-280.8 1939.71,-280.8 1939.71,-222.4 2119.92,-222.4 2119.92,-280.8"/>
+<text text-anchor="middle" x="2029.81" y="-264.2" font-family="Arial" font-size="14.00">submission_of_application</text>
+<text text-anchor="middle" x="2029.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.034</text>
+<text text-anchor="middle" x="2029.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.034</text>
+</g>
+<!-- 8&#45;&gt;31 -->
+<g id="edge32" class="edge">
+<title>8-&gt;31</title>
+<path fill="none" stroke="black" d="M2029.81,-333.11C2029.81,-320.69 2029.81,-305.95 2029.81,-292.5"/>
+<polygon fill="black" stroke="black" points="2033.31,-292.61 2029.81,-282.61 2026.31,-292.61 2033.31,-292.61"/>
+<text text-anchor="middle" x="2033.71" y="-303" font-family="Arial" font-size="14.00">2</text>
+</g>
+<!-- 35 -->
+<g id="node36" class="node">
+<title>35</title>
+<polygon fill="lightblue" stroke="black" points="2352.92,-280.8 2172.71,-280.8 2172.71,-222.4 2352.92,-222.4 2352.92,-280.8"/>
+<text text-anchor="middle" x="2262.81" y="-264.2" font-family="Arial" font-size="14.00">submission_of_application</text>
+<text text-anchor="middle" x="2262.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.044</text>
+<text text-anchor="middle" x="2262.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.044</text>
+</g>
+<!-- 8&#45;&gt;35 -->
+<g id="edge36" class="edge">
+<title>8-&gt;35</title>
+<path fill="none" stroke="black" d="M2088.01,-334.53C2119.4,-319.81 2158.41,-301.53 2191.6,-285.98"/>
+<polygon fill="black" stroke="black" points="2192.76,-289.3 2200.33,-281.88 2189.79,-282.96 2192.76,-289.3"/>
+<text text-anchor="middle" x="2164.16" y="-303" font-family="Arial" font-size="14.00">3</text>
+</g>
+<!-- 11 -->
+<g id="node12" class="node">
+<title>11</title>
+<polygon fill="lightblue" stroke="black" points="316.63,-169.6 201,-169.6 201,-111.2 316.63,-111.2 316.63,-169.6"/>
+<text text-anchor="middle" x="258.81" y="-153" font-family="Arial" font-size="14.00">loan_type</text>
+<text text-anchor="middle" x="258.81" y="-136.2" font-family="Arial" font-size="14.00">Gini: 0.066</text>
+<text text-anchor="middle" x="258.81" y="-119.4" font-family="Arial" font-size="14.00">Info Gain: 0.002</text>
+</g>
+<!-- 10&#45;&gt;11 -->
+<g id="edge11" class="edge">
+<title>10-&gt;11</title>
+<path fill="none" stroke="black" d="M1572.74,-224.77C1569.75,-223.88 1566.77,-223.08 1563.81,-222.4 1550.23,-219.28 575.71,-170.61 561.81,-169.6 481.58,-163.75 389.59,-154.89 328.22,-148.66"/>
+<polygon fill="black" stroke="black" points="328.93,-145.21 318.63,-147.68 328.22,-152.18 328.93,-145.21"/>
+<text text-anchor="middle" x="1241.38" y="-191.8" font-family="Arial" font-size="14.00">0</text>
+</g>
+<!-- 15 -->
+<g id="node16" class="node">
+<title>15</title>
+<polygon fill="lightblue" stroke="black" points="750.92,-169.6 570.71,-169.6 570.71,-111.2 750.92,-111.2 750.92,-169.6"/>
+<text text-anchor="middle" x="660.81" y="-153" font-family="Arial" font-size="14.00">submission_of_application</text>
+<text text-anchor="middle" x="660.81" y="-136.2" font-family="Arial" font-size="14.00">Gini: 0.190</text>
+<text text-anchor="middle" x="660.81" y="-119.4" font-family="Arial" font-size="14.00">Info Gain: 0.008</text>
+</g>
+<!-- 10&#45;&gt;15 -->
+<g id="edge15" class="edge">
+<title>10-&gt;15</title>
+<path fill="none" stroke="black" d="M1572.71,-224.9C1569.73,-223.97 1566.75,-223.13 1563.81,-222.4 1487.67,-203.45 982.26,-164.88 762.53,-148.75"/>
+<polygon fill="black" stroke="black" points="763.07,-145.28 752.84,-148.04 762.55,-152.26 763.07,-145.28"/>
+<text text-anchor="middle" x="1416.57" y="-191.8" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- 19 -->
+<g id="node20" class="node">
+<title>19</title>
+<polygon fill="lightblue" stroke="black" points="1254.63,-169.6 1139,-169.6 1139,-111.2 1254.63,-111.2 1254.63,-169.6"/>
+<text text-anchor="middle" x="1196.81" y="-153" font-family="Arial" font-size="14.00">dtir1</text>
+<text text-anchor="middle" x="1196.81" y="-136.2" font-family="Arial" font-size="14.00">Gini: 0.037</text>
+<text text-anchor="middle" x="1196.81" y="-119.4" font-family="Arial" font-size="14.00">Info Gain: 0.005</text>
+</g>
+<!-- 10&#45;&gt;19 -->
+<g id="edge21" class="edge">
+<title>10-&gt;19</title>
+<path fill="none" stroke="black" d="M1572.58,-225.36C1569.63,-224.31 1566.7,-223.32 1563.81,-222.4 1462.08,-190.06 1340.49,-165.97 1265.97,-152.8"/>
+<polygon fill="black" stroke="black" points="1266.82,-149.39 1256.37,-151.12 1265.62,-156.29 1266.82,-149.39"/>
+<text text-anchor="middle" x="1498.69" y="-191.8" font-family="Arial" font-size="14.00">2</text>
+</g>
+<!-- 25 -->
+<g id="node26" class="node">
+<title>25</title>
+<polygon fill="lightblue" stroke="black" points="1621.92,-169.6 1441.71,-169.6 1441.71,-111.2 1621.92,-111.2 1621.92,-169.6"/>
+<text text-anchor="middle" x="1531.81" y="-153" font-family="Arial" font-size="14.00">submission_of_application</text>
+<text text-anchor="middle" x="1531.81" y="-136.2" font-family="Arial" font-size="14.00">Gini: 0.279</text>
+<text text-anchor="middle" x="1531.81" y="-119.4" font-family="Arial" font-size="14.00">Info Gain: 0.009</text>
+</g>
+<!-- 10&#45;&gt;25 -->
+<g id="edge24" class="edge">
+<title>10-&gt;25</title>
+<path fill="none" stroke="black" d="M1604.8,-221.91C1592.64,-208.49 1578.01,-192.36 1565.05,-178.07"/>
+<polygon fill="black" stroke="black" points="1567.98,-176.08 1558.67,-171.02 1562.79,-180.78 1567.98,-176.08"/>
+<text text-anchor="middle" x="1591.13" y="-191.8" font-family="Arial" font-size="14.00">3</text>
+</g>
+<!-- 28 -->
+<g id="node29" class="node">
+<title>28</title>
+<polygon fill="lightblue" stroke="black" points="1819.92,-169.6 1639.71,-169.6 1639.71,-111.2 1819.92,-111.2 1819.92,-169.6"/>
+<text text-anchor="middle" x="1729.81" y="-153" font-family="Arial" font-size="14.00">submission_of_application</text>
+<text text-anchor="middle" x="1729.81" y="-136.2" font-family="Arial" font-size="14.00">Gini: 0.250</text>
+<text text-anchor="middle" x="1729.81" y="-119.4" font-family="Arial" font-size="14.00">Info Gain: 0.009</text>
+</g>
+<!-- 10&#45;&gt;28 -->
+<g id="edge27" class="edge">
+<title>10-&gt;28</title>
+<path fill="none" stroke="black" d="M1656.82,-221.91C1668.99,-208.49 1683.62,-192.36 1696.57,-178.07"/>
+<polygon fill="black" stroke="black" points="1698.84,-180.78 1702.96,-171.02 1693.65,-176.08 1698.84,-180.78"/>
+<text text-anchor="middle" x="1690.13" y="-191.8" font-family="Arial" font-size="14.00">4</text>
+</g>
+<!-- 12 -->
+<g id="node13" class="node">
+<title>12</title>
+<polygon fill="lightgreen" stroke="black" points="115.63,-58.4 0,-58.4 0,0 115.63,0 115.63,-58.4"/>
+<text text-anchor="middle" x="57.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="57.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.088</text>
+<text text-anchor="middle" x="57.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 11&#45;&gt;12 -->
+<g id="edge8" class="edge">
+<title>11-&gt;12</title>
+<path fill="none" stroke="black" d="M206,-110.71C179.79,-96.47 147.95,-79.17 120.51,-64.26"/>
+<polygon fill="black" stroke="black" points="122.41,-61.31 111.95,-59.61 119.07,-67.46 122.41,-61.31"/>
+<text text-anchor="middle" x="174.24" y="-80.6" font-family="Arial" font-size="14.00">0</text>
+</g>
+<!-- 13 -->
+<g id="node14" class="node">
+<title>13</title>
+<polygon fill="lightgreen" stroke="black" points="249.63,-58.4 134,-58.4 134,0 249.63,0 249.63,-58.4"/>
+<text text-anchor="middle" x="191.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="191.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.002</text>
+<text text-anchor="middle" x="191.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 11&#45;&gt;13 -->
+<g id="edge9" class="edge">
+<title>11-&gt;13</title>
+<path fill="none" stroke="black" d="M241.21,-110.71C233.29,-97.79 223.82,-82.36 215.3,-68.48"/>
+<polygon fill="black" stroke="black" points="218.3,-66.68 210.09,-59.99 212.34,-70.34 218.3,-66.68"/>
+<text text-anchor="middle" x="233.22" y="-80.6" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- 14 -->
+<g id="node15" class="node">
+<title>14</title>
+<polygon fill="lightgreen" stroke="black" points="383.63,-58.4 268,-58.4 268,0 383.63,0 383.63,-58.4"/>
+<text text-anchor="middle" x="325.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="325.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.154</text>
+<text text-anchor="middle" x="325.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 11&#45;&gt;14 -->
+<g id="edge10" class="edge">
+<title>11-&gt;14</title>
+<path fill="none" stroke="black" d="M276.42,-110.71C284.34,-97.79 293.81,-82.36 302.33,-68.48"/>
+<polygon fill="black" stroke="black" points="305.29,-70.34 307.54,-59.99 299.32,-66.68 305.29,-70.34"/>
+<text text-anchor="middle" x="300.22" y="-80.6" font-family="Arial" font-size="14.00">2</text>
+</g>
+<!-- 16 -->
+<g id="node17" class="node">
+<title>16</title>
+<polygon fill="lightgreen" stroke="black" points="517.63,-58.4 402,-58.4 402,0 517.63,0 517.63,-58.4"/>
+<text text-anchor="middle" x="459.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="459.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.140</text>
+<text text-anchor="middle" x="459.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 15&#45;&gt;16 -->
+<g id="edge12" class="edge">
+<title>15-&gt;16</title>
+<path fill="none" stroke="black" d="M608,-110.71C581.79,-96.47 549.95,-79.17 522.51,-64.26"/>
+<polygon fill="black" stroke="black" points="524.41,-61.31 513.95,-59.61 521.07,-67.46 524.41,-61.31"/>
+<text text-anchor="middle" x="576.24" y="-80.6" font-family="Arial" font-size="14.00">0</text>
+</g>
+<!-- 17 -->
+<g id="node18" class="node">
+<title>17</title>
+<polygon fill="lightgreen" stroke="black" points="651.63,-58.4 536,-58.4 536,0 651.63,0 651.63,-58.4"/>
+<text text-anchor="middle" x="593.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="593.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.355</text>
+<text text-anchor="middle" x="593.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 15&#45;&gt;17 -->
+<g id="edge13" class="edge">
+<title>15-&gt;17</title>
+<path fill="none" stroke="black" d="M643.21,-110.71C635.29,-97.79 625.82,-82.36 617.3,-68.48"/>
+<polygon fill="black" stroke="black" points="620.3,-66.68 612.09,-59.99 614.34,-70.34 620.3,-66.68"/>
+<text text-anchor="middle" x="635.22" y="-80.6" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- 18 -->
+<g id="node19" class="node">
+<title>18</title>
+<polygon fill="lightgreen" stroke="black" points="785.63,-58.4 670,-58.4 670,0 785.63,0 785.63,-58.4"/>
+<text text-anchor="middle" x="727.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="727.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="727.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 15&#45;&gt;18 -->
+<g id="edge14" class="edge">
+<title>15-&gt;18</title>
+<path fill="none" stroke="black" d="M678.42,-110.71C686.34,-97.79 695.81,-82.36 704.33,-68.48"/>
+<polygon fill="black" stroke="black" points="707.29,-70.34 709.54,-59.99 701.32,-66.68 707.29,-70.34"/>
+<text text-anchor="middle" x="702.22" y="-80.6" font-family="Arial" font-size="14.00">2</text>
+</g>
+<!-- 20 -->
+<g id="node21" class="node">
+<title>20</title>
+<polygon fill="lightgreen" stroke="black" points="919.63,-58.4 804,-58.4 804,0 919.63,0 919.63,-58.4"/>
+<text text-anchor="middle" x="861.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="861.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.297</text>
+<text text-anchor="middle" x="861.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 19&#45;&gt;20 -->
+<g id="edge16" class="edge">
+<title>19-&gt;20</title>
+<path fill="none" stroke="black" d="M1138.73,-123.75C1086.41,-109.22 1007.3,-86.2 930.15,-58.75"/>
+<polygon fill="black" stroke="black" points="931.79,-55.63 921.2,-55.54 929.43,-62.21 931.79,-55.63"/>
+<text text-anchor="middle" x="1034.95" y="-80.6" font-family="Arial" font-size="14.00">0</text>
+</g>
+<!-- 21 -->
+<g id="node22" class="node">
+<title>21</title>
+<polygon fill="lightgreen" stroke="black" points="1053.63,-58.4 938,-58.4 938,0 1053.63,0 1053.63,-58.4"/>
+<text text-anchor="middle" x="995.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="995.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.319</text>
+<text text-anchor="middle" x="995.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 19&#45;&gt;21 -->
+<g id="edge17" class="edge">
+<title>19-&gt;21</title>
+<path fill="none" stroke="black" d="M1144,-110.71C1117.79,-96.47 1085.95,-79.17 1058.51,-64.26"/>
+<polygon fill="black" stroke="black" points="1060.41,-61.31 1049.95,-59.61 1057.07,-67.46 1060.41,-61.31"/>
+<text text-anchor="middle" x="1112.24" y="-80.6" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- 22 -->
+<g id="node23" class="node">
+<title>22</title>
+<polygon fill="lightgreen" stroke="black" points="1187.63,-58.4 1072,-58.4 1072,0 1187.63,0 1187.63,-58.4"/>
+<text text-anchor="middle" x="1129.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="1129.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.002</text>
+<text text-anchor="middle" x="1129.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 19&#45;&gt;22 -->
+<g id="edge18" class="edge">
+<title>19-&gt;22</title>
+<path fill="none" stroke="black" d="M1179.21,-110.71C1171.29,-97.79 1161.82,-82.36 1153.3,-68.48"/>
+<polygon fill="black" stroke="black" points="1156.3,-66.68 1148.09,-59.99 1150.34,-70.34 1156.3,-66.68"/>
+<text text-anchor="middle" x="1171.22" y="-80.6" font-family="Arial" font-size="14.00">2</text>
+</g>
+<!-- 23 -->
+<g id="node24" class="node">
+<title>23</title>
+<polygon fill="lightgreen" stroke="black" points="1321.63,-58.4 1206,-58.4 1206,0 1321.63,0 1321.63,-58.4"/>
+<text text-anchor="middle" x="1263.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="1263.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.269</text>
+<text text-anchor="middle" x="1263.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 19&#45;&gt;23 -->
+<g id="edge19" class="edge">
+<title>19-&gt;23</title>
+<path fill="none" stroke="black" d="M1214.42,-110.71C1222.34,-97.79 1231.81,-82.36 1240.33,-68.48"/>
+<polygon fill="black" stroke="black" points="1243.29,-70.34 1245.54,-59.99 1237.32,-66.68 1243.29,-70.34"/>
+<text text-anchor="middle" x="1238.22" y="-80.6" font-family="Arial" font-size="14.00">3</text>
+</g>
+<!-- 24 -->
+<g id="node25" class="node">
+<title>24</title>
+<polygon fill="lightgreen" stroke="black" points="1455.63,-58.4 1340,-58.4 1340,0 1455.63,0 1455.63,-58.4"/>
+<text text-anchor="middle" x="1397.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="1397.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.155</text>
+<text text-anchor="middle" x="1397.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 19&#45;&gt;24 -->
+<g id="edge20" class="edge">
+<title>19-&gt;24</title>
+<path fill="none" stroke="black" d="M1249.62,-110.71C1275.83,-96.47 1307.67,-79.17 1335.12,-64.26"/>
+<polygon fill="black" stroke="black" points="1336.56,-67.46 1343.68,-59.61 1333.22,-61.31 1336.56,-67.46"/>
+<text text-anchor="middle" x="1313.24" y="-80.6" font-family="Arial" font-size="14.00">4</text>
+</g>
+<!-- 26 -->
+<g id="node27" class="node">
+<title>26</title>
+<polygon fill="lightgreen" stroke="black" points="1589.63,-58.4 1474,-58.4 1474,0 1589.63,0 1589.63,-58.4"/>
+<text text-anchor="middle" x="1531.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="1531.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.198</text>
+<text text-anchor="middle" x="1531.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 25&#45;&gt;26 -->
+<g id="edge22" class="edge">
+<title>25-&gt;26</title>
+<path fill="none" stroke="black" d="M1531.81,-110.71C1531.81,-98.29 1531.81,-83.55 1531.81,-70.1"/>
+<polygon fill="black" stroke="black" points="1535.31,-70.21 1531.81,-60.21 1528.31,-70.21 1535.31,-70.21"/>
+<text text-anchor="middle" x="1535.71" y="-80.6" font-family="Arial" font-size="14.00">0</text>
+</g>
+<!-- 27 -->
+<g id="node28" class="node">
+<title>27</title>
+<polygon fill="lightgreen" stroke="black" points="1723.63,-58.4 1608,-58.4 1608,0 1723.63,0 1723.63,-58.4"/>
+<text text-anchor="middle" x="1665.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="1665.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.372</text>
+<text text-anchor="middle" x="1665.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 25&#45;&gt;27 -->
+<g id="edge23" class="edge">
+<title>25-&gt;27</title>
+<path fill="none" stroke="black" d="M1567.02,-110.71C1583.95,-96.92 1604.4,-80.25 1622.29,-65.67"/>
+<polygon fill="black" stroke="black" points="1624.13,-68.69 1629.67,-59.66 1619.71,-63.26 1624.13,-68.69"/>
+<text text-anchor="middle" x="1610.73" y="-80.6" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- 29 -->
+<g id="node30" class="node">
+<title>29</title>
+<polygon fill="lightgreen" stroke="black" points="1857.63,-58.4 1742,-58.4 1742,0 1857.63,0 1857.63,-58.4"/>
+<text text-anchor="middle" x="1799.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="1799.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.154</text>
+<text text-anchor="middle" x="1799.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 28&#45;&gt;29 -->
+<g id="edge25" class="edge">
+<title>28-&gt;29</title>
+<path fill="none" stroke="black" d="M1748.21,-110.71C1756.56,-97.67 1766.57,-82.06 1775.54,-68.07"/>
+<polygon fill="black" stroke="black" points="1778.28,-70.28 1780.73,-59.97 1772.38,-66.5 1778.28,-70.28"/>
+<text text-anchor="middle" x="1772.9" y="-80.6" font-family="Arial" font-size="14.00">0</text>
+</g>
+<!-- 30 -->
+<g id="node31" class="node">
+<title>30</title>
+<polygon fill="lightgreen" stroke="black" points="1991.63,-58.4 1876,-58.4 1876,0 1991.63,0 1991.63,-58.4"/>
+<text text-anchor="middle" x="1933.81" y="-41.8" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="1933.81" y="-25" font-family="Arial" font-size="14.00">Gini: 0.337</text>
+<text text-anchor="middle" x="1933.81" y="-8.2" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 28&#45;&gt;30 -->
+<g id="edge26" class="edge">
+<title>28-&gt;30</title>
+<path fill="none" stroke="black" d="M1783.41,-110.71C1810.01,-96.47 1842.33,-79.17 1870.18,-64.26"/>
+<polygon fill="black" stroke="black" points="1871.72,-67.41 1878.88,-59.6 1868.42,-61.24 1871.72,-67.41"/>
+<text text-anchor="middle" x="1847.92" y="-80.6" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- 32 -->
+<g id="node33" class="node">
+<title>32</title>
+<polygon fill="lightgreen" stroke="black" points="1953.63,-169.6 1838,-169.6 1838,-111.2 1953.63,-111.2 1953.63,-169.6"/>
+<text text-anchor="middle" x="1895.81" y="-153" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="1895.81" y="-136.2" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="1895.81" y="-119.4" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 31&#45;&gt;32 -->
+<g id="edge29" class="edge">
+<title>31-&gt;32</title>
+<path fill="none" stroke="black" d="M1994.61,-221.91C1977.68,-208.12 1957.23,-191.45 1939.34,-176.87"/>
+<polygon fill="black" stroke="black" points="1941.92,-174.46 1931.96,-170.86 1937.5,-179.89 1941.92,-174.46"/>
+<text text-anchor="middle" x="1974.73" y="-191.8" font-family="Arial" font-size="14.00">0</text>
+</g>
+<!-- 33 -->
+<g id="node34" class="node">
+<title>33</title>
+<polygon fill="lightgreen" stroke="black" points="2087.63,-169.6 1972,-169.6 1972,-111.2 2087.63,-111.2 2087.63,-169.6"/>
+<text text-anchor="middle" x="2029.81" y="-153" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="2029.81" y="-136.2" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="2029.81" y="-119.4" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 31&#45;&gt;33 -->
+<g id="edge30" class="edge">
+<title>31-&gt;33</title>
+<path fill="none" stroke="black" d="M2029.81,-221.91C2029.81,-209.49 2029.81,-194.75 2029.81,-181.3"/>
+<polygon fill="black" stroke="black" points="2033.31,-181.41 2029.81,-171.41 2026.31,-181.41 2033.31,-181.41"/>
+<text text-anchor="middle" x="2033.71" y="-191.8" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- 34 -->
+<g id="node35" class="node">
+<title>34</title>
+<polygon fill="lightgreen" stroke="black" points="2221.63,-169.6 2106,-169.6 2106,-111.2 2221.63,-111.2 2221.63,-169.6"/>
+<text text-anchor="middle" x="2163.81" y="-153" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="2163.81" y="-136.2" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="2163.81" y="-119.4" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 31&#45;&gt;34 -->
+<g id="edge31" class="edge">
+<title>31-&gt;34</title>
+<path fill="none" stroke="black" d="M2065.02,-221.91C2081.95,-208.12 2102.4,-191.45 2120.29,-176.87"/>
+<polygon fill="black" stroke="black" points="2122.13,-179.89 2127.67,-170.86 2117.71,-174.46 2122.13,-179.89"/>
+<text text-anchor="middle" x="2108.73" y="-191.8" font-family="Arial" font-size="14.00">2</text>
+</g>
+<!-- 36 -->
+<g id="node37" class="node">
+<title>36</title>
+<polygon fill="lightgreen" stroke="black" points="2355.63,-169.6 2240,-169.6 2240,-111.2 2355.63,-111.2 2355.63,-169.6"/>
+<text text-anchor="middle" x="2297.81" y="-153" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="2297.81" y="-136.2" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="2297.81" y="-119.4" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 35&#45;&gt;36 -->
+<g id="edge33" class="edge">
+<title>35-&gt;36</title>
+<path fill="none" stroke="black" d="M2272.01,-221.91C2276.07,-209.24 2280.9,-194.16 2285.29,-180.49"/>
+<polygon fill="black" stroke="black" points="2288.5,-181.93 2288.22,-171.34 2281.83,-179.8 2288.5,-181.93"/>
+<text text-anchor="middle" x="2286.3" y="-191.8" font-family="Arial" font-size="14.00">0</text>
+</g>
+<!-- 37 -->
+<g id="node38" class="node">
+<title>37</title>
+<polygon fill="lightgreen" stroke="black" points="2489.63,-169.6 2374,-169.6 2374,-111.2 2489.63,-111.2 2489.63,-169.6"/>
+<text text-anchor="middle" x="2431.81" y="-153" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="2431.81" y="-136.2" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="2431.81" y="-119.4" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 35&#45;&gt;37 -->
+<g id="edge34" class="edge">
+<title>35-&gt;37</title>
+<path fill="none" stroke="black" d="M2307.22,-221.91C2328.87,-207.92 2355.09,-190.98 2377.88,-176.25"/>
+<polygon fill="black" stroke="black" points="2379.64,-179.28 2386.14,-170.91 2375.84,-173.4 2379.64,-179.28"/>
+<text text-anchor="middle" x="2361.32" y="-191.8" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- 38 -->
+<g id="node39" class="node">
+<title>38</title>
+<polygon fill="lightgreen" stroke="black" points="2623.63,-169.6 2508,-169.6 2508,-111.2 2623.63,-111.2 2623.63,-169.6"/>
+<text text-anchor="middle" x="2565.81" y="-153" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="2565.81" y="-136.2" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="2565.81" y="-119.4" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 35&#45;&gt;38 -->
+<g id="edge35" class="edge">
+<title>35-&gt;38</title>
+<path fill="none" stroke="black" d="M2351.02,-221.9C2392.8,-207.94 2443.54,-190.44 2497.07,-170.19"/>
+<polygon fill="black" stroke="black" points="2498.29,-173.46 2506.39,-166.64 2495.8,-166.92 2498.29,-173.46"/>
+<text text-anchor="middle" x="2451.42" y="-191.8" font-family="Arial" font-size="14.00">2</text>
+</g>
+<!-- 40 -->
+<g id="node41" class="node">
+<title>40</title>
+<polygon fill="lightgreen" stroke="black" points="2486.63,-280.8 2371,-280.8 2371,-222.4 2486.63,-222.4 2486.63,-280.8"/>
+<text text-anchor="middle" x="2428.81" y="-264.2" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="2428.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="2428.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 39&#45;&gt;40 -->
+<g id="edge38" class="edge">
+<title>39-&gt;40</title>
+<path fill="none" stroke="black" d="M2478.21,-333.11C2470.29,-320.19 2460.82,-304.76 2452.3,-290.88"/>
+<polygon fill="black" stroke="black" points="2455.3,-289.08 2447.09,-282.39 2449.34,-292.74 2455.3,-289.08"/>
+<text text-anchor="middle" x="2470.22" y="-303" font-family="Arial" font-size="14.00">0</text>
+</g>
+<!-- 41 -->
+<g id="node42" class="node">
+<title>41</title>
+<polygon fill="lightgreen" stroke="black" points="2620.63,-280.8 2505,-280.8 2505,-222.4 2620.63,-222.4 2620.63,-280.8"/>
+<text text-anchor="middle" x="2562.81" y="-264.2" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="2562.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="2562.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 39&#45;&gt;41 -->
+<g id="edge39" class="edge">
+<title>39-&gt;41</title>
+<path fill="none" stroke="black" d="M2513.42,-333.11C2521.34,-320.19 2530.81,-304.76 2539.33,-290.88"/>
+<polygon fill="black" stroke="black" points="2542.29,-292.74 2544.54,-282.39 2536.32,-289.08 2542.29,-292.74"/>
+<text text-anchor="middle" x="2537.22" y="-303" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- 42 -->
+<g id="node43" class="node">
+<title>42</title>
+<polygon fill="lightgreen" stroke="black" points="2754.63,-280.8 2639,-280.8 2639,-222.4 2754.63,-222.4 2754.63,-280.8"/>
+<text text-anchor="middle" x="2696.81" y="-264.2" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="2696.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="2696.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 39&#45;&gt;42 -->
+<g id="edge40" class="edge">
+<title>39-&gt;42</title>
+<path fill="none" stroke="black" d="M2548.62,-333.11C2574.83,-318.87 2606.67,-301.57 2634.12,-286.66"/>
+<polygon fill="black" stroke="black" points="2635.56,-289.86 2642.68,-282.01 2632.22,-283.71 2635.56,-289.86"/>
+<text text-anchor="middle" x="2612.24" y="-303" font-family="Arial" font-size="14.00">2</text>
+</g>
+<!-- 44 -->
+<g id="node45" class="node">
+<title>44</title>
+<polygon fill="lightgreen" stroke="black" points="2888.63,-280.8 2773,-280.8 2773,-222.4 2888.63,-222.4 2888.63,-280.8"/>
+<text text-anchor="middle" x="2830.81" y="-264.2" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="2830.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="2830.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 43&#45;&gt;44 -->
+<g id="edge42" class="edge">
+<title>43-&gt;44</title>
+<path fill="none" stroke="black" d="M2929.61,-333.11C2912.68,-319.32 2892.23,-302.65 2874.34,-288.07"/>
+<polygon fill="black" stroke="black" points="2876.92,-285.66 2866.96,-282.06 2872.5,-291.09 2876.92,-285.66"/>
+<text text-anchor="middle" x="2909.73" y="-303" font-family="Arial" font-size="14.00">0</text>
+</g>
+<!-- 45 -->
+<g id="node46" class="node">
+<title>45</title>
+<polygon fill="lightgreen" stroke="black" points="3022.63,-280.8 2907,-280.8 2907,-222.4 3022.63,-222.4 3022.63,-280.8"/>
+<text text-anchor="middle" x="2964.81" y="-264.2" font-family="Arial" font-size="14.00">Class: 1</text>
+<text text-anchor="middle" x="2964.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="2964.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 43&#45;&gt;45 -->
+<g id="edge43" class="edge">
+<title>43-&gt;45</title>
+<path fill="none" stroke="black" d="M2964.81,-333.11C2964.81,-320.69 2964.81,-305.95 2964.81,-292.5"/>
+<polygon fill="black" stroke="black" points="2968.31,-292.61 2964.81,-282.61 2961.31,-292.61 2968.31,-292.61"/>
+<text text-anchor="middle" x="2968.71" y="-303" font-family="Arial" font-size="14.00">1</text>
+</g>
+<!-- 46 -->
+<g id="node47" class="node">
+<title>46</title>
+<polygon fill="lightgreen" stroke="black" points="3156.63,-280.8 3041,-280.8 3041,-222.4 3156.63,-222.4 3156.63,-280.8"/>
+<text text-anchor="middle" x="3098.81" y="-264.2" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="3098.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="3098.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 43&#45;&gt;46 -->
+<g id="edge44" class="edge">
+<title>43-&gt;46</title>
+<path fill="none" stroke="black" d="M3000.02,-333.11C3016.95,-319.32 3037.4,-302.65 3055.29,-288.07"/>
+<polygon fill="black" stroke="black" points="3057.13,-291.09 3062.67,-282.06 3052.71,-285.66 3057.13,-291.09"/>
+<text text-anchor="middle" x="3043.73" y="-303" font-family="Arial" font-size="14.00">2</text>
+</g>
+<!-- 47 -->
+<g id="node48" class="node">
+<title>47</title>
+<polygon fill="lightgreen" stroke="black" points="3290.63,-280.8 3175,-280.8 3175,-222.4 3290.63,-222.4 3290.63,-280.8"/>
+<text text-anchor="middle" x="3232.81" y="-264.2" font-family="Arial" font-size="14.00">Class: 0</text>
+<text text-anchor="middle" x="3232.81" y="-247.4" font-family="Arial" font-size="14.00">Gini: 0.000</text>
+<text text-anchor="middle" x="3232.81" y="-230.6" font-family="Arial" font-size="14.00">Info Gain: 0.000</text>
+</g>
+<!-- 43&#45;&gt;47 -->
+<g id="edge45" class="edge">
+<title>43-&gt;47</title>
+<path fill="none" stroke="black" d="M3022.96,-338.64C3060.64,-323.57 3111.03,-303.3 3164.09,-281.49"/>
+<polygon fill="black" stroke="black" points="3165.42,-284.73 3173.33,-277.69 3162.75,-278.26 3165.42,-284.73"/>
+<text text-anchor="middle" x="3120.18" y="-303" font-family="Arial" font-size="14.00">3</text>
+</g>
+</g>
+</svg>
